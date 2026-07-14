@@ -11,7 +11,6 @@
 
 <div align="center" style="margin-top: 10px;">
   <img src="https://img.shields.io/badge/Status-Available%20for%20Internship-brightgreen?style=flat-square&logo=gitbook&logoColor=white" alt="Status" />
-  <img src="https://komarev.com/ghpvc/?username=Prince-410&color=blueviolet&style=flat-square" alt="Visitor Count" />
 </div>
 
 ---
